@@ -32,4 +32,4 @@ Puedes seguirnos en nuestras distintas redes sociales para enterarte de todas nu
 [GDG Android Bolivia](https://github.com/GDGAndroidBolivia)
 
 ### Licencia
-Este proyecto está licenciado bajo la licencia MIT. Consulte el archivo [LICENCIA](https://github.com/GDGAndroidBolivia/june-2019-firebase-meetup/blob/master/LICENSE.md) para obtener más información.
+Este proyecto está licenciado bajo la licencia MIT. Consulte el archivo [LICENCIA](https://github.com/GDGAndroidBolivia/Kotlin-Everywhere-La-Paz-Slides/blob/master/LICENSE.md) para obtener más información.
