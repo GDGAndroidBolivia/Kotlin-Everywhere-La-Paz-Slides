@@ -1,27 +1,22 @@
-
-
 # Kotlin/Everywhere La Paz | Slides
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://doge.mit-license.org)
 
-Repositorio del Kotlin/Everywhere La Paz con material de los expositores.
+Repositorio del **Kotlin/Everywhere La Paz** con material de los expositores.
 
 ### Material
 | Expositor | Título | Enlace a diapositivas |
 | ------------- |:-------------| :-----:|
-| Bruno Aybar | Authenticate Firebase and Android with Auth0 | [Diapositivas](https://docs.google.com/presentation/d/e/2PACX-1vRCgAPxgbd5uIjfMIYT1wg0DCDLrYrr15bCWEBDbzr5YUVGvCrFVrA0mkCkAOSmkpadAQsYLmU7mpIo/pub?start=false&loop=false&delayms=3000) |
-| Santiago Carrillo | Novedades de Firebase en el Google I/O | [Diapositivas](https://docs.google.com/presentation/d/1dRpAPoGp8oQmbzRSG5U7WlGGKDlGPC_t7IGBSTmisf8/edit#slide=id.g5986f48ad6_0_60) |
-| Cristian Gómez | Trigger background functions in Firebase | [Diapositivas](https://docs.google.com/presentation/d/1gZM57HNhSt4yN-IB4CrKwxrM9QDbKanmPPstCl4eqmM/edit#slide=id.g59886ca58f_2_140) |
-| Yury Camacho | Trigger background functions in Firebase | [Diapositivas](https://docs.google.com/presentation/d/1gZM57HNhSt4yN-IB4CrKwxrM9QDbKanmPPstCl4eqmM/edit#slide=id.g59886ca58f_2_140) |
-
-| Cristian Gómez | Trigger background functions in Firebase | [Diapositivas](https://docs.google.com/presentation/d/1gZM57HNhSt4yN-IB4CrKwxrM9QDbKanmPPstCl4eqmM/edit#slide=id.g59886ca58f_2_140) |
-
-| Cristian Gómez | Trigger background functions in Firebase | [Diapositivas](https://docs.google.com/presentation/d/1gZM57HNhSt4yN-IB4CrKwxrM9QDbKanmPPstCl4eqmM/edit#slide=id.g59886ca58f_2_140) |
-| Cristian Gómez | Trigger background functions in Firebase | [Diapositivas](https://docs.google.com/presentation/d/1gZM57HNhSt4yN-IB4CrKwxrM9QDbKanmPPstCl4eqmM/edit#slide=id.g59886ca58f_2_140) |
-| Cristian Gómez | Trigger background functions in Firebase | [Diapositivas](https://docs.google.com/presentation/d/1gZM57HNhSt4yN-IB4CrKwxrM9QDbKanmPPstCl4eqmM/edit#slide=id.g59886ca58f_2_140) |
+| Bruno Aybar | Understanding Kotlin's Type System | [Diapositivas]() |
+| Santiago Carrillo | Inyección de Dependencias en Kotlin con Koin | [Diapositivas]() |
+| Cristian Gómez | FP para no-Batos | [Diapositivas]() |
+| Juan Guillermo Gómez | Mobile Backends with ktor and Google Cloud | [Diapositivas]() |
+| Brian Castillo | Firebase Functions with Kotlin Native | [Diapositivas]() |
+| Yury Camacho | Kotlin Multiplatform | [Diapositivas]() |
+| Armando Picón | Coroutines in the way! | [Diapositivas]() |
 
 
 ### Ubicación
-Todos nuestros Meetups los llevamos a cabo en instalaciones de [Link Cowork](http://www.linkcowork.com.bo/), puedes visitar su página para conocer de sus servicios.
+El **Kotlin/Everywhere La Paz** se llevó a cabo en la [Casa de la Cultura - Franz Tamayo](https://goo.gl/maps/DZu2K3s4r6jPdtiW7).
 
 ### Redes sociales
 Puedes seguirnos en nuestras distintas redes sociales para enterarte de todas nuestras actividades:
